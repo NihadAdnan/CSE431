@@ -1,5 +1,6 @@
 # CSE431
 Link to unlisted YouTube video:
+https://youtu.be/KznaY1NNnmI
 
 
 Public link to the slide (Anyone on the internet can view without login):
